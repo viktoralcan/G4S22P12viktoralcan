@@ -1,0 +1,7 @@
+{"nombre":"Pedro Pascal","edad":23,"correo":"PedroP@gmail.com"}
+{"nombre":"Pitor Alcantara","edad":24,"correo":"Pitor24#@gmail.com"}
+{"nombre":"Carlos Wballe","edad":22,"correo":"CWeba@gmail.com"}
+{"nombre":"Pedro Almendariz","edad":67,"correo":"Pal@gmail.com"}
+{"nombre":"PEdro Puto","edad":23,"correo":"PePu@gmail.com"}
+{"nombre":"Papa","edad":56,"correo":"pp"}
+{"nombre":"aa","edad":1,"correo":"13"}
